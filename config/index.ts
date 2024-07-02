@@ -3,8 +3,8 @@ export const APP_ID = `${process.env.NEXT_PUBLIC_APP_ID}`
 export const API_KEY = `${process.env.NEXT_PUBLIC_APP_KEY}`
 export const API_URL = `${process.env.NEXT_PUBLIC_API_URL}`
 export const APP_INFO: AppInfo = {
-  title: 'Chat APP',
-  description: 'test描述',
+  title: '中路品质大脑',
+  description: '中路品质大脑可回答您的：官网信息、产品咨询、解决方案咨询等信息；当前版本：V1.0',
   copyright: '江苏中路信息科技有限公司',
   privacy_policy: '',
   default_language: 'zh-Hans',
